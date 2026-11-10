@@ -1,0 +1,10 @@
+POST http://localhost:4004/odata/v4/fifofefo/FIFOComplianceIntegration
+Content-Type: application/json
+
+{
+    "FIFOUUID": "a3b4c5d6-e7f8-90a1-b2c3-d4e5f6a7b8c9",
+    "Plant": "1000",
+    "Material": "TEST-MAT-01",
+    "FIFOQuantity": 96.500,
+    "NonFIFOQuantity": 3.500
+}

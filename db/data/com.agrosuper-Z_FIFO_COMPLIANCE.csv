@@ -1,0 +1,3 @@
+FIFOUUID,Plant,PlantName,StorageLocation,StorageLocationName,Material,MaterialDescription,Batch,ManufacturingDate,ShelfLifeExpirationDate,OutboundDelivery,OutboundDeliveryItem,StockQuantity,DispatchQuantity,FIFOQuantity,NonFIFOQuantity,FIFOCompliancePercent,FIFODeviationQuantity,FIFODeviationPercent,FIFOComplianceStatus,FIFOCriticality
+7a5c783c-62b1-4f1e-9ba0-d63f27129abc,1000,Planta Central,1001,Bodega Principal,MAT-001,Lomo de Cerdo Premium,L20261110,2026-11-10,2027-02-10,0080012345,000010,500.000,120.000,,,,,,SIN_DATOS,0
+8f2d941a-73c2-5f2e-ab11-e74f38230def,2000,Planta San Vicente,2001,Despacho Congelados,MAT-002,Pechuga de Pollo Entera,L20261108,2026-11-08,2027-01-08,0080012346,000010,1000.000,450.000,,,,,,SIN_DATOS,0
